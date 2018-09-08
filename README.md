@@ -9,3 +9,6 @@
 Please feel free to create [pull requests](https://github.com/urduhack/awesome-urdu/pulls)
 
 
+## Dataset
+
+- ["Web news Data"](https://github.com/urduhack/) - Urdu Web news Data
