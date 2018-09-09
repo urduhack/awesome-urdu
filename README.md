@@ -24,5 +24,6 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 
 ## Dictionaries
 
+- [ur.oxforddictionaries.com](https://ur.oxforddictionaries.com/) - Oxford Dictionary
 - [English Urdu Dictionary](http://www.urduword.com) - English Urdu Dictionary
 - [Urdu English Dictionary 2](http://www.urduenglishdictionary.org) - Urdu English Dictionary 2
