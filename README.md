@@ -11,4 +11,18 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 
 ## Dataset
 
-- ["Web news Data"](https://github.com/urduhack/) - Urdu Web news Data
+- [Web news Data](https://github.com/urduhack/) - Urdu Web news Data
+
+
+## Urdu News websites
+
+- [JANG Group](http://www.jang.com.pk/) - JANG Group
+- [BBC Urdu](http://www.bbcurdu.com/) - BBC Urdu
+- [Voice of America Urdu](http://www.voanews.com/urdu) - Voice of America Urdu
+- [Nawa-i-Waqt Group](http://www.nawaiwaqt.com.pk) - Nawa-i-Waqt Group
+- [Urdu Point Network](http://www.urdupoint.com/) - Urdu Point Network
+
+## Dictionaries
+
+- [English Urdu Dictionary](http://www.urduword.com) - English Urdu Dictionary
+- [Urdu English Dictionary 2](http://www.urduenglishdictionary.org) - Urdu English Dictionary 2
