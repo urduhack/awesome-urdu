@@ -12,7 +12,7 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 ## Dataset
 
 - [Web news Data](https://github.com/urduhack/) - Urdu Web news Data
-
+- [Roman Urdu Dataset](https://github.com/Smat26/Roman-Urdu-Dataset) - Data for sentiment analysis, along with misc compiled data for Roman Urdu
 
 ## Urdu News websites
 
