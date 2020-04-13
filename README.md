@@ -15,6 +15,10 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [Roman Urdu Dataset](https://github.com/Smat26/Roman-Urdu-Dataset) - Data for sentiment analysis, along with misc compiled data for Roman Urdu
 - [Collection of Urdu Datasets](https://github.com/mirfan899/Urdu) - Datasets for POS, NER and NLP tasks
 
+## Urdu Sentiment Datasets
+
+- [Urdu IMDB Movie Reviews](https://www.kaggle.com/akkefa/imdb-dataset-of-50k-movie-translated-urdu-reviews) - IMDB Movie Reviews data in Urdu
+
 ## Urdu News websites
 
 - [JANG Group](http://www.jang.com.pk/) - JANG Group
