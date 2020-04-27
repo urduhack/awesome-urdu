@@ -14,10 +14,16 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [Web news Data](https://github.com/urduhack/) - Urdu Web news Data
 - [Roman Urdu Dataset](https://github.com/Smat26/Roman-Urdu-Dataset) - Data for sentiment analysis, along with misc compiled data for Roman Urdu
 - [Collection of Urdu Datasets](https://github.com/mirfan899/Urdu) - Datasets for POS, NER and NLP tasks
+- [Urdu N-grams](https://www.kaggle.com/tafseerahmed/urdu-ngrams) - Uni-Gram, Bi-Gram, Tri-Gram and Tetra-Gram
+- [U-HAT](https://www.kaggle.com/hazrat/uhat-urdu-handwritten-text-dataset) - Urdu Hand-Written Text Dataset
 
 ## Urdu Sentiment Datasets
 
 - [Urdu IMDB Movie Reviews](https://www.kaggle.com/akkefa/imdb-dataset-of-50k-movie-translated-urdu-reviews) - IMDB Movie Reviews data in Urdu
+
+## Urdu NER Datasets
+
+- [MK-PUCIT-NER](https://www.kaggle.com/safiakanwal/mkpucit-ner-dataet) - Urdu Name Entity Recognition Dataset
 
 ## Urdu News websites
 
