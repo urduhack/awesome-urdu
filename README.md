@@ -32,6 +32,9 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [IIIT-Hyderabad MT Bhasha](http://preon.iiit.ac.in/~jerin/bhasha/)
   - Contains *Mann ki Baat* and *Press Information Bureau* datasets
 - [PM India Parallel Corpus](http://data.statmt.org/pmindia/)
+- [English-Urdu Religious Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2582)
+- [MechanicalTurks 2012 Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
+- [Urdu-Nepali-English Parallel Corpus](https://www.cle.org.pk/software/ling_resources/UrduNepaliEnglishParallelCorpus.htm) ([Test set here](https://www.cle.org.pk/software/ling_resources/testingcorpusmt.htm))
 
 ## Urdu News websites
 
