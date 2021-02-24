@@ -35,6 +35,10 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [English-Urdu Religious Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2582)
 - [MechanicalTurks 2012 Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
 - [Urdu-Nepali-English Parallel Corpus](https://www.cle.org.pk/software/ling_resources/UrduNepaliEnglishParallelCorpus.htm) ([Test set here](https://www.cle.org.pk/software/ling_resources/testingcorpusmt.htm))
+- Commercial-licensed corpora
+  - [EMILLE/CIIL Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0037/)
+  - [National Platform for Language Technology](https://nplt.in/demo/index.php?route=product/category&path=75_59&limit=100)
+  - [Technology Development for Indian Languages](https://tdil-dc.in/index.php?option=com_download&task=fsearch&Itemid=547&lang=en) (Search "Urdu Corpus")
 
 ## Urdu News websites
 
