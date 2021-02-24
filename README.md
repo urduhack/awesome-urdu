@@ -25,6 +25,21 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 
 - [MK-PUCIT-NER](https://www.kaggle.com/safiakanwal/mkpucit-ner-dataet) - Urdu Name Entity Recognition Dataset
 
+## Urdu Parallel Corpora for Machine Translation
+
+- [OPUS Corpora](https://opus.nlpl.eu/) (Select en->ur)
+  - Contains: [CC-Aligned](http://www.statmt.org/cc-aligned/), [Tanzil](http://tanzil.net/trans/), [JW300](https://www.aclweb.org/anthology/P19-1310/), [OpenSubtitles](https://www.aclweb.org/anthology/L16-1147/), [TED](https://www.ted.com/participate/translate), [QED](https://www.aclweb.org/anthology/L14-1675/), etc.
+- [IIIT-Hyderabad MT Bhasha](http://preon.iiit.ac.in/~jerin/bhasha/)
+  - Contains *Mann ki Baat* and *Press Information Bureau* datasets
+- [PM India Parallel Corpus](http://data.statmt.org/pmindia/)
+- [English-Urdu Religious Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2582)
+- [MechanicalTurks 2012 Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
+- [Urdu-Nepali-English Parallel Corpus](https://www.cle.org.pk/software/ling_resources/UrduNepaliEnglishParallelCorpus.htm) ([Test set here](https://www.cle.org.pk/software/ling_resources/testingcorpusmt.htm))
+- Commercial-licensed corpora
+  - [EMILLE/CIIL Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0037/)
+  - [National Platform for Language Technology](https://nplt.in/demo/index.php?route=product/category&path=75_59&limit=100)
+  - [Technology Development for Indian Languages](https://tdil-dc.in/index.php?option=com_download&task=fsearch&Itemid=547&lang=en) (Search "Urdu Corpus")
+
 ## Urdu News websites
 
 - [JANG Group](http://www.jang.com.pk/) - JANG Group
@@ -38,3 +53,9 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [ur.oxforddictionaries.com](https://ur.oxforddictionaries.com/) - Oxford Dictionary
 - [English Urdu Dictionary](http://www.urduword.com) - English Urdu Dictionary
 - [Urdu English Dictionary 2](http://www.urduenglishdictionary.org) - Urdu English Dictionary 2
+
+## Urdu Transliteration Datasets
+
+- [Google Dakshina](https://github.com/google-research-datasets/dakshina)
+- [Roman to Urdu Transliteration Sentences, 2020](https://sci-hub.se/10.1142/s0218001421520017) (Drive Link available on request)
+- [Roman-Urdu Conversion Data](https://github.com/Smat26/Roman-Urdu-Dataset#conversion)
