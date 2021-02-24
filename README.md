@@ -25,6 +25,11 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 
 - [MK-PUCIT-NER](https://www.kaggle.com/safiakanwal/mkpucit-ner-dataet) - Urdu Name Entity Recognition Dataset
 
+## Urdu Parallel Corpora for Machine Translation
+
+- [OPUS Corpora](https://opus.nlpl.eu/) (Select en->ur)
+  - Contains: [CC-Aligned](http://www.statmt.org/cc-aligned/), [Tanzil](http://tanzil.net/trans/), [JW300](https://www.aclweb.org/anthology/P19-1310/), [OpenSubtitles](https://www.aclweb.org/anthology/L16-1147/), [TED](https://www.ted.com/participate/translate), [QED](https://www.aclweb.org/anthology/L14-1675/), etc.
+
 ## Urdu News websites
 
 - [JANG Group](http://www.jang.com.pk/) - JANG Group
