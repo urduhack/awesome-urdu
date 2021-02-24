@@ -53,3 +53,9 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [ur.oxforddictionaries.com](https://ur.oxforddictionaries.com/) - Oxford Dictionary
 - [English Urdu Dictionary](http://www.urduword.com) - English Urdu Dictionary
 - [Urdu English Dictionary 2](http://www.urduenglishdictionary.org) - Urdu English Dictionary 2
+
+## Urdu Transliteration Datasets
+
+- [Google Dakshina](https://github.com/google-research-datasets/dakshina)
+- [Roman to Urdu Transliteration Sentences, 2020](https://sci-hub.se/10.1142/s0218001421520017) (Drive Link available on request)
+- [Roman-Urdu Conversion Data](https://github.com/Smat26/Roman-Urdu-Dataset#conversion)
