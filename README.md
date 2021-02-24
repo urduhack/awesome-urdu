@@ -29,6 +29,9 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 
 - [OPUS Corpora](https://opus.nlpl.eu/) (Select en->ur)
   - Contains: [CC-Aligned](http://www.statmt.org/cc-aligned/), [Tanzil](http://tanzil.net/trans/), [JW300](https://www.aclweb.org/anthology/P19-1310/), [OpenSubtitles](https://www.aclweb.org/anthology/L16-1147/), [TED](https://www.ted.com/participate/translate), [QED](https://www.aclweb.org/anthology/L14-1675/), etc.
+- [IIIT-Hyderabad MT Bhasha](http://preon.iiit.ac.in/~jerin/bhasha/)
+  - Contains *Mann ki Baat* and *Press Information Bureau* datasets
+- [PM India Parallel Corpus](http://data.statmt.org/pmindia/)
 
 ## Urdu News websites
 
