@@ -111,7 +111,7 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - CLE Urdu [Verb List](https://www.cle.org.pk/software/ling_resources/urduverblist.htm), [Words List](https://www.cle.org.pk/software/ling_resources/wordlist.htm), [Most Frequent Words](https://www.cle.org.pk/software/ling_resources/UrduHighFreqWords.htm)
 - [IndoWordnet Parallel Corpus](https://github.com/anoopkunchukuttan/indowordnet_parallel) (API - [pyiwn](https://github.com/riteshpanjwani/pyiwn), [Demo](https://www.cfilt.iitb.ac.in/indowordnet/))
 - [MTurks-10k Multilingual Dictionary, 2014](https://github.com/AI4Bharat/indicnlp_catalog/issues/21)
-- [Microsoft IT Terminology](https://www.microsoft.com/en-us/language/Terminology)
+- [Microsoft IT Terminology](https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology)
 - [Urdu N-grams, 2020](https://www.kaggle.com/tafseerahmed/urdu-ngrams) - Uni-Gram, Bi-Gram, Tri-Gram and Tetra-Gram
 - [CLE Urdu Books N-Grams](https://www.cle.org.pk/clestore/cleurdungrams.htm)
 - [Roman Urdu Lexical Normalization, 2019](https://github.com/abdulrafae/normalization)
