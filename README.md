@@ -192,6 +192,7 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [Voice of America Urdu](http://www.voanews.com/urdu)
 - [Nawa-i-Waqt Group](http://www.nawaiwaqt.com.pk)
 - [Urdu Point Network](http://www.urdupoint.com/)
+- [Blog Lovers Pakistan](https://bloglovers.pk) – 380+ free Urdu articles on Islamic teachings, education, history, English literature, technology, and kids' stories. A comprehensive resource for Urdu readers and researchers.
 
 [More news websites](https://github.com/divkakwani/awesome-newspapers/blob/main/newspapers/ur.csv)...
 
