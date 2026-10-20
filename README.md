@@ -200,3 +200,7 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [ur.oxforddictionaries.com](https://ur.oxforddictionaries.com/) - Oxford Dictionary
 - [English Urdu Dictionary](http://www.urduword.com) - English Urdu Dictionary
 - [Urdu English Dictionary 2](http://www.urduenglishdictionary.org) - Urdu English Dictionary 2
+
+### Learning Urdu (children)
+
+- [Takhti](https://takhti.appin60.com) - Free printable Urdu worksheets for playgroup to grade 3: every letter in its joined forms, the child's name in Urdu, matching, ginti and short graded stories with Roman Urdu and English. Runs in the browser, Nastaliq or Naskh, A4 or US Letter.
