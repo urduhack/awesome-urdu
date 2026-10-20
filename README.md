@@ -184,6 +184,7 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 ## Online Resources/Services
 
 - [Pakistani Center for Language Engineering - Online Services](https://tech.cle.org.pk/)
+- [Sunlo](https://sunlo.appin60.com) - Free Urdu speech to text for voice notes and recordings, in Urdu script with Roman Urdu and English ([measured accuracy](https://sunlo.appin60.com/accuracy.html))
 
 ### Urdu News websites
 
