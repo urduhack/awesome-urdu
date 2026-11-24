@@ -184,6 +184,7 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 ## Online Resources/Services
 
 - [Pakistani Center for Language Engineering - Online Services](https://tech.cle.org.pk/)
+- [InPage Unicode Converter](https://inpageunicode.com/) - Free browser-based converter between InPage text and Unicode Urdu (text and Word files), with an online Urdu typing tool.
 
 ### Urdu News websites
 
